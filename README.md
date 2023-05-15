@@ -11,3 +11,11 @@ My following goals for this challenge is:
 - Replace all of my javascript with typescript
 - Contribute everyday to this challenge
 - Learn new paradigms about javascript (typescript also)
+
+## Repository Structure
+
+The repository structure is going to be like:
+- /days/10: Days 0 - 10
+- /days/20: Days 10 - 20
+- ...
+
